@@ -1,6 +1,6 @@
 # Oussama Zbir
 
-**AI / ML Engineer** — I build AI systems that hold up after the prototype: typed, tested, traceable, and designed for production constraints.
+**AI / ML Engineer** :  I build AI systems that hold up after the prototype: typed, tested, traceable, and designed for production constraints.
 
 ## About
 
@@ -22,10 +22,10 @@ The platform uses a provider-neutral LLM layer and a custom orchestration loop, 
 
 ## Areas I work on
 
-- **Agentic AI & MCP** — tool calling, orchestration, human-in-the-loop workflows, tool-risk governance
-- **LLM / RAG engineering & evaluation** — retrieval, structured outputs, provider abstraction, quality measurement
-- **Applied ML** — credit risk, fraud detection, explainability, calibration, out-of-time validation
-- **Cloud & AI engineering** — FastAPI services, Docker, CI/CD, AWS and Bedrock
+- **Agentic AI & MCP** :  tool calling, orchestration, human-in-the-loop workflows, tool-risk governance
+- **LLM / RAG engineering & evaluation** :  retrieval, structured outputs, provider abstraction, quality measurement
+- **Applied ML** :  credit risk, fraud detection, explainability, calibration, out-of-time validation
+- **Cloud & AI engineering** :  FastAPI services, Docker, CI/CD, AWS and Bedrock
 
 ## Core stack
 
@@ -33,7 +33,7 @@ Python · FastAPI · Pydantic · PostgreSQL · Docker · AWS / Bedrock · scikit
 
 ## Currently building
 
-**Credit Risk Intelligence** — a production-quality credit scoring project covering reproducible preprocessing, baseline modeling, out-of-time validation, calibration, explainability, serving, and drift monitoring.
+**Credit Risk Intelligence** :  a production-quality credit scoring project covering reproducible preprocessing, baseline modeling, out-of-time validation, calibration, explainability, serving, and drift monitoring.
 
 ## Contact
 
